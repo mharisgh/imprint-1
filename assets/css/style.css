@@ -1,3 +1,12 @@
+.text-white{
+    color:white;
+}
+.bg-black{
+    background: black;
+}
+.bg-red-500{
+    background: #ff5043;
+}
 .swiper1 .selected {
     border-bottom: 2px solid #11019f;
 }
